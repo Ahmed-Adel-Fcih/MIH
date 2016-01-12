@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-reverse-engineering PUBLIC "-//Hibernate/Hibernate Reverse Engineering DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-reverse-engineering-3.0.dtd">
+<hibernate-reverse-engineering>
+  <schema-selection match-catalog="hey_mom_db"/>
+  <table-filter match-name="acc_student"/>
+  <table-filter match-name="app_group_role"/>
+  <table-filter match-name="report_type"/>
+  <table-filter match-name="app_role"/>
+  <table-filter match-name="report"/>
+  <table-filter match-name="st_mo"/>
+  <table-filter match-name="account"/>
+  <table-filter match-name="mointor"/>
+  <table-filter match-name="student"/>
+  <table-filter match-name="gallery"/>
+  <table-filter match-name="report_lookup"/>
+  <table-filter match-name="acc_st"/>
+  <table-filter match-name="app_group"/>
+  <table-filter match-name="report_log"/>
+  <table-filter match-name="organization"/>
+  <table-filter match-name="app_roles"/>
+</hibernate-reverse-engineering>
